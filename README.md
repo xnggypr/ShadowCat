@@ -1,3 +1,7 @@
+   /\_/\  ShadowCat
+  ( o.o )  KernelSU logcat reader
+#   > ^ <
+
 ShadowCat is a KernelSU module designed to capture and persist Android logcat output as a main goal.
 
 ✨ Features
